@@ -4,3 +4,5 @@ Assessing spatial autocorrelation (SA) of statistical estimates such as means is
 
 The reference for SBC appears in [Koo et al. (2019)](https://www.tandfonline.com/doi/full/10.1080/00330124.2018.1559652).
 - Koo, H., Wong, D. W. S., and Chun, Y., D. A. (2019). Measuring Global Spatial Autocorrelation with Data Reliability Information. The Professional Geographer, 71(3), 551-565.
+
+This code will be replaced by the new version including both global and local SBC with their significance tests. 
